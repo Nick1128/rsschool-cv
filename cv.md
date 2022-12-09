@@ -30,11 +30,11 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ### Code example:
 
-'''java
+```java
 public double area() {
         return 0.5 * Math.abs(a.getX() * (b.getY() - c.getY()) + b.getX() * (c.getY() - a.getY()) + c.getX() * (a.getY() - b.getY()));
 }
-'''
+```
 
 ---
 
